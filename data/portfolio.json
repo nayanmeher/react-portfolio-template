@@ -3,7 +3,7 @@
     "headerTaglineOne": "Hello 👋",
     "headerTaglineTwo": "I'm Nayan Meher - curious",
     "headerTaglineThree": "Flutter devloper",
-    "headerTaglineFour": " based in Bargarh, Odisha.",
+    "headerTaglineFour": " based in Bhubaneswar, Odisha.",
     "showBlog": true,
     "darkMode": true,
     "socials": [
@@ -17,111 +17,85 @@
         "title": "LinkedIn",
         "link": "www.linkedin.com/in/nayan-meher-4819a9196"
       },
-      {
-        "id": "3",
-        "title": "Twitter",
-        "link": "https://twitter.com/realchetanverma"
-      },
       { "id": "4", "title": "Blog", "link": "https://tripsbynayan.travel.blog/" },
       { "id": "5", "title": "Email", "link": "nayanmeher16@gmail.com" }
     ],
     "projects": [
+     
       {
         "id": "1",
-        "title": "Project One Test",
-        "description": "Web Design",
-        "imageSrc": "https://images.unsplash.com/photo-1487837647815-bbc1f30cd0d2?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxzZWFyY2h8Njl8fHBhc3RlbHxlbnwwfHwwfA%3D%3D&auto=format&fit=crop&w=400&q=60",
-        "url": "http://chetanverma.com/"
+        "title": "Craftify Furniture",
+        "description": "Flutter Development",
+        "imageSrc": "https://media-hosting.imagekit.io//ef3213f005a84ac6/Discover%20easily%20apps%20for%20yourself..png?Expires=1837505012&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=S4oLLrm6L1Grf5~VTM4VdZOfu2slq92Of~wemg4q2F8u7MxvrkE7355yMnXGM7YpjFG4Yo9lNiN0BC~B~e-2BLqqaRGnA2efcojyVymPCnOJOtZkI5Icstt7eHw8WR0H7kl6RKXg4BFO1q3V0Morazy-oL-an2HZEMtoj1cHhf3fwlyXgBAzT0VZYkFYao-zcMeaRNPia-ZwVguWcuoIK-vHJzaPcmVpWmW2d5MGByx-ALpaxgpUK4uJ2-GkjB5Q7Nk3Cq3wD065k71EHJk1aOoS0nX~Q5qobPrlaDKp5xYeKdi7CR4DMrU60x2bLKxCXUJvbqlS6Lm5pCQ2cNjOBw__",
+        "url": "https://appetize.io/app/b_nnlzoswkqiivb6uctsheiqnqcy"
       },
       {
         "id": "2",
-        "title": "Project Two",
-        "description": "Web Development",
-        "imageSrc": "https://images.unsplash.com/photo-1605153864431-a2795a1b2f95?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8MXwyNTY3ODl8fGVufDB8fHw%3D&auto=format&fit=crop&w=400&q=60",
-        "url": "http://chetanverma.com/"
-      },
-      {
-        "id": "3",
-        "title": "Project Three",
-        "description": "Design",
-        "imageSrc": "https://images.unsplash.com/photo-1504083898675-c896ecdae86e?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxzZWFyY2h8MjJ8fHBhc3RlbHxlbnwwfHwwfA%3D%3D&auto=format&fit=crop&w=400&q=60",
-        "url": "http://chetanverma.com/"
-      },
-      {
-        "id": "4",
-        "title": "Project Four",
-        "description": "Marketing",
-        "imageSrc": "https://images.unsplash.com/photo-1492171983775-a51717616c0d?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxzZWFyY2h8NjB8fHBhc3RlbHxlbnwwfHwwfA%3D%3D&auto=format&fit=crop&w=400&q=60",
-        "url": "http://chetanverma.com/"
-      },
-      {
-        "id": "5",
-        "title": "Project Five",
-        "description": "Development",
-        "imageSrc": "https://images.unsplash.com/photo-1534239143101-1b1c627395c5?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxzZWFyY2h8NzZ8fHBhc3RlbHxlbnwwfHwwfA%3D%3D&auto=format&fit=crop&w=400&q=60",
-        "url": "http://chetanverma.com/"
-      },
-      {
-        "id": "6",
-        "title": "Project Six",
-        "description": "Design & Development",
-        "imageSrc": "https://images.unsplash.com/photo-1517479149777-5f3b1511d5ad?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxzZWFyY2h8MTAyfHxwYXN0ZWx8ZW58MHx8MHw%3D&auto=format&fit=crop&w=400&q=60",
-        "url": "http://chetanverma.com/"
+        "title": "Wallet Application",
+        "description": "Flutter Development",
+        "imageSrc": "https://media-hosting.imagekit.io//6f9e866dc5884d1d/pic2.png?Expires=1837504823&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=IsKW6vxQtst6Qm~KuPuRwxf1PZ--bHvAMhHdWHl-gTBXdfJGIpE63qiyPSI8uU~b-yKw7Y-0TaWqeXTIiZS9m2-UspidcEBdYjevlvwQyqcNRtfb2ow~fHdzWJ2sfnWWpIRDb0w6egNG0j3IYXyemIDOOu0XSkeTsn2c1xOyRIfZVT3Y1XwkMdpsQwa05tDsC0-Z7XvIfoP-HLKACfworVIsbCYMqXNJbLJOX8Fc-Ivb7K-OmRV1OTkkFRVZaMYTtBvmE~whgPeYB1tCYBeG7r7gO28DTz32dJ7h5WT~AE~XD8tIPckKZfgtTS6sYciSgJzsrpqiMHtsZnoX8Pm6Tg__",
+        "url": "https://appetize.io/app/b_gsy47ilashuhopzzknfk7hskke"
       }
     ],
     "services": [
       {
         "id": "1",
-        "title": "Art Direction",
-        "description": "We help with the creation and development of online advertising ideas, with particular focus on their visual appearance."
+        "title": "Cross-Platform App Development",
+        "description": "Build high-performance, visually stunning mobile apps for both Android and iOS using Flutter, ensuring a seamless user experience with a single codebase."
       },
       {
         "id": "2",
-        "title": "Branding",
-        "description": "We design key brand elements such as the logo, color scheme, typography, and other design components that makes your brand stand out from competitors."
+        "title": "UI/UX Design & Customization",
+        "description": "Create beautiful, responsive, and intuitive app interfaces with Flutter’s rich widget library, tailored to your brand’s identity and user needs."
       },
       {
         "id": "3",
-        "title": "Web Design",
-        "description": "We build and optimize your online presence.  Website is the digital entry point into your business and a powerful revenue channel."
+        "title": "API Integration & Backend Connectivit",
+        "description": "Seamlessly integrate RESTful APIs, Firebase, and other backend services to power your Flutter apps with real-time data and smooth performance."
       },
       {
         "id": "4",
-        "title": "3D Design",
-        "description": "We combine creative design and technical skills to build striking 3D visualisations that bring your project to life."
+        "title": "App Maintenance & Optimization",
+        "description": "Provide ongoing support, bug fixes, performance optimization, and feature enhancements to ensure your Flutter app runs flawlessly."
       }
     ],
-    "aboutpara": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+    "aboutpara": "Passionate Flutter Developer with 5  years of experience creating and implementing innovative and robust mobile applications. Adept at collaborating with cross-functional teams to deliver high-quality software solutions. Seeking to leverage my expertise and drive for excellence to contribute to a dynamic development team",
     "resume": {
-      "tagline": "👋  I'm a software engineer, product designer, and maker.",
-      "description": "I have delivered world-class user experiences to millions of people. Well-versed with React, Javascript, and most of the Web frameworks.",
+      "tagline": "👋  I'm a Flutter Developer.",
+      "description": "I have delivered world-class user experiences to millions of people. Well-versed with Dart, Flutter, and most of the Android frameworks.",
       "experiences": [
         {
           "id": "1",
-          "dates": "March 2022 - Present",
+          "dates": "MARCH 2019 - Oct 2023",
           "type": "Full Time",
-          "position": "Frontend Engineer at X",
+          "position": "Flutter Developer at Kellton Tech Solutions Ltd, Hyderabad",
           "bullets": [
-            "Worked on the frontend of a React application",
-            "Worked on the frontend of a React application"
+            "Used Backend API and Store data offline",
+            "Graph to Show Data Graphically Realtime Chart"
           ]
         },
         {
           "id": "2",
-          "dates": "March 2020 - March 2022",
+          "dates": "Nov 2023 - Present",
           "type": "Full Time",
-          "position": "Frontend Engineer at X",
-          "bullets": ["Worked on the frontend of a React application"]
+          "position": "Flutter Developer at PAYINC Private Ltd, BARGARH—",
+          "bullets": [
+            " ⁠User registration and login",
+            " ⁠Ride request and tracking",
+            "⁠Driver rating and review system",
+            "Push notifications and alerts",
+            "Integrate Google Map"
+        ]
         }
       ],
       "education": {
-        "universityName": "University X",
-        "universityDate": "2016-2020",
-        "universityPara": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry&apos;s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book"
+        "universityName": "GM University, Sambalpur",
+        "universityDate": "2015-2018",
+        "universityPara": "MCA"
       },
-      "languages": ["Javascript", "HTML5", "CSS", "Python"],
-      "frameworks": ["React", "Typescript", "NodeJs"],
-      "others": ["Figma", "AdobeXD", "AWS"]
+      "languages": ["Dart", "Java", "Python"],
+      "frameworks": ["Flutter", "Android"],
+      "others": ["Android Studio", "Visual Studio", "Firebase"]
     }
   }
   
